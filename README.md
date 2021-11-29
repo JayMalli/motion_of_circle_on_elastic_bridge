@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://firebasestorage.googleapis.com/v0/b/creative-coding-92146.appspot.com/o/img%2Fmotion_of_circle_on_bridge.png?alt=media&token=dd7b1ff3-ad5d-41b0-8ef7-562bcab0c406" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Motion of a circle on a elastic bridge</h3>
